@@ -1,0 +1,16 @@
+
+.chatBox{
+  height: 90vh;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+
+.chatBoxMessages{
+ list-style-type: none; 
+ padding: 0;
+ overflow-wrap: break-word;
+}
+
+.chatBoxSubmission{
+  position: relative;
+}

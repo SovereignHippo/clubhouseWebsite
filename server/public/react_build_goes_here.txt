@@ -1,0 +1,2 @@
+put react build into public
+connect to server via port 3500
